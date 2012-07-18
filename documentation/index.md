@@ -25,23 +25,9 @@ cookiejar.clearWebViewCookies('.google.com');
 cookiejar.clearWebViewCookies('.google.co.uk');
 cookiejar.clearWebViewCookies('accounts.google.com');		
 
-
-### ___PROJECTNAMEASIDENTIFIER__.function
-
-clearWebViewCookies(domain)
-
-### ___PROJECTNAMEASIDENTIFIER__.property
-
-TODO: This is an example of a module property.
-
-## Usage
-
-TODO: Enter your usage example here
-
 ## Author
 
-TODO: Enter your author name, email and other contact
-details you want to share here. 
+Kosso
 
 ## License
 
