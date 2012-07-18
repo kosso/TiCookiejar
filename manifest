@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: cookiejar
+moduleid: com.kosso.cookiejar
+guid: 0ccb84da-cfb7-4e50-94f0-0cd292d0c244
+platform: iphone
+minsdk: 1.7.2

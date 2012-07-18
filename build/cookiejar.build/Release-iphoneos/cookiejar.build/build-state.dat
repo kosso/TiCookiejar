@@ -1,0 +1,350 @@
+Tcookiejar
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth ComKossoCookiejar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/libComKossoCookiejar.a normal armv7
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004EE2147A0000000000000110
+t1323439226
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F3370000000000001534
+t1316156215
+s5428
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/Bridge.h
+c000000004E497CD20000000000000268
+t1313438930
+s616
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/KrollCallback.h
+c000000004E497CD900000000000008A2
+t1313438937
+s2210
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/KrollContext.h
+c000000004E497CD200000000000013C3
+t1313438930
+s5059
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/KrollObject.h
+c000000004E497CD00000000000000D1B
+t1313438928
+s3355
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/LayoutConstraint.h
+c000000004E497CC800000000000009F1
+t1313438920
+s2545
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/ListenerEntry.h
+c000000004E497CCF0000000000000269
+t1313438927
+s617
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiAnimation.h
+c000000004E497CD80000000000000D5B
+t1313438936
+s3419
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBase.h
+c000000004E497CCD000000000000366B
+t1313438925
+s13931
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBlob.h
+c000000004E497CBB00000000000005B5
+t1313438907
+s1461
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBuffer.h
+c000000004E497CD600000000000003B9
+t1313438934
+s953
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiColor.h
+c000000004E497CBE00000000000002E6
+t1313438910
+s742
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/Ti.h
+c000000004E497CB2000000000000071C
+t1313438898
+s1820
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiBase.h
+c000000004E497CC20000000000001A03
+t1313438914
+s6659
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiContextRef.h
+c000000004E497CB600000000000014D8
+t1313438902
+s5336
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004E497CD00000000000000860
+t1313438928
+s2144
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiCore.h
+c000000004E497CB9000000000000069B
+t1313438905
+s1691
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiObjectRef.h
+c000000004E497CA8000000000000945D
+t1313438888
+s37981
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiStringRef.h
+c000000004E497CBE000000000000168A
+t1313438910
+s5770
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiStringRefCF.h
+c000000004E497CC60000000000000A3B
+t1313438918
+s2619
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/TiValueRef.h
+c000000004E497CAE0000000000002D42
+t1313438894
+s11586
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore/WebKitAvailability.h
+c000000004E497CBB0000000000006BD6
+t1313438907
+s27606
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h
+c000000004E497CC1000000000000119C
+t1313438913
+s4508
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiEvaluator.h
+c000000004E497CB500000000000004D5
+t1313438901
+s1237
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiFile.h
+c000000004E497CBF0000000000000368
+t1313438911
+s872
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiGradient.h
+c000000004E497CC300000000000005FC
+t1313438915
+s1532
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiHost.h
+c000000004E497CDB0000000000000503
+t1313438939
+s1283
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h
+c000000004E497CB60000000000000409
+t1313438902
+s1033
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiPoint.h
+c000000004E497CC000000000000002D3
+t1313438912
+s723
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiProxy.h
+c000000004E497CA900000000000014B2
+t1313438889
+s5298
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiPublicAPI.h
+c000000004E497CBC0000000000000A67
+t1313438908
+s2663
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiStylesheet.h
+c000000004E497CB100000000000002CB
+t1313438897
+s715
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiThreading.h
+c000000004E497CCC00000000000009CE
+t1313438924
+s2510
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIView.h
+c000000004E497CCA0000000000000F04
+t1313438922
+s3844
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebView.h
+c000000004E497CBF00000000000003F6
+t1313438911
+s1014
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h
+c000000004E497CBE00000000000001CA
+t1313438910
+s458
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h
+c000000004E497CDD0000000000001955
+t1313438941
+s6485
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h
+c000000004E497CD80000000000001DC8
+t1313438936
+s7624
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/WebFont.h
+c000000004E497CD30000000000000409
+t1313438931
+s1033
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/defines.h
+c000000004E497CC900000000000008C7
+t1313438921
+s2247
+
+N/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h
+c000000005006FBC400000000000000F7
+t1342634948
+s247
+
+N/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m
+c000000005006FF040000000000000AB6
+t1342635780
+s2742
+
+N/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.h
+c000000005006F68D00000000000000A5
+t1342633613
+s165
+
+N/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m
+c000000005006F68D0000000000000112
+t1342633613
+s274
+
+N/Users/kosso/ti_modules/cookiejar/ComKossoCookiejar_Prefix.pch
+c000000005006F68D000000000000003E
+t1342633613
+s62
+i<Foundation/Foundation.h>
+
+N/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/libComKossoCookiejar.a
+t1342635819
+s18240
+
+N/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejar.LinkFileList
+c000000005006F7FA0000000000000116
+t1342633978
+s278
+
+N/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o
+t1342635819
+s13816
+
+N/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o
+t1342633978
+s3928
+
+N/var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth
+t1342633978
+s2325092
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8f5182ec36b7b541^5f7b96ec36b7b541^---0#1#0#--18"Check dependencies36"B71BFC12-AB99-41C8-BBE8-8239964B0528-
+
+CCompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364328618.992321
+e364328619.140841
+r1
+xCompileC
+xbuild/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o
+x/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:7:
+oIn file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h:9:
+o/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+oIn file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:12:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h:9:
+o/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h:94:40: warning: type of property 'center' does not match type of accessor 'setCenter:' [3]
+o @property(nonatomic,readonly) TiPoint *center;
+o                                        ^
+o/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h:113:1: note: declared here [3]
+o -(void)setCenter:(id)value;
+o ^
+o/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:98:2: warning: 'NSString' may not respond to 'objectAtIndex:' [3]
+o         NSLog(@"[INFO] called webView clearWebViewCache to clear : %@", [cleardomain objectAtIndex:0]);
+o         ^
+o/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBase.h:63:14: note: instantiated from:
+o TiLogMessage(__VA_ARGS__);\
+o              ^
+o/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:98:67: note: instantiated from:
+o         NSLog(@"[INFO] called webView clearWebViewCache to clear : %@", [cleardomain objectAtIndex:0]);
+o                                                                          ^
+o/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:102:43: warning: 'NSString' may not respond to 'objectAtIndex:' [3]
+o             if([[cookie domain] isEqualToString:[cleardomain objectAtIndex:0]]) {
+o                                                  ^
+o5 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m698cfeaa36b7b541^280e24ab36b7b541^-2551"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h:9:In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h:7:In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h:7:In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:7:/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h:9:In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:12:/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h:94:40: warning: type of property 'center' does not match type of accessor 'setCenter:' [3] @property(nonatomic,readonly) TiPoint *center;                                        ^/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h:113:1: note: declared here [3] -(void)setCenter:(id)value; ^/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:98:2: warning: 'NSString' may not respond to 'objectAtIndex:' [3]         NSLog(@"[INFO] called webView clearWebViewCache to clear : %@", [cleardomain objectAtIndex:0]);         ^/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBase.h:63:14: note: instantiated from: TiLogMessage(__VA_ARGS__);\              ^/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:98:67: note: instantiated from:         NSLog(@"[INFO] called webView clearWebViewCache to clear : %@", [cleardomain objectAtIndex:0]);                                                                          ^/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:102:43: warning: 'NSString' may not respond to 'objectAtIndex:' [3]             if([[cookie domain] isEqualToString:[cleardomain objectAtIndex:0]]) {                                                  ^5 warnings generated.6(21%IDEActivityLogMessage2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-364328619#403#216#5(36%IDEActivityLogHeaderInclusionMessage3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h:9:-364328619#0#108#-0#-23%DVTTextDocumentLocation4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h:7:-364328619#108#109#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h:7:-364328619#217#93#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:7:-364328619#310#93#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h-364328619#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#14"Semantic Issue--2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-364328619#671#216#5(3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h:9:-364328619#18446744073709551615#0#-0#-4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h:7:-364328619#18446744073709551615#0#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h:7:-364328619#18446744073709551615#0#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:7:-364328619#18446744073709551615#0#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h-364328619#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#14"Semantic Issue--2@70"Type of property 'center' does not match type of accessor 'setCenter:'-364328619#1150#178#3(3@116"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h:9:-364328619#939#117#-0#-4@109"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@93"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:12:-364328619#1056#94#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#---2@160"Type of property 'center' does not match type of accessor 'setCenter:' in /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h-364328619#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h0000000000000000^93#39#93#39#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h0000000000000000^93#39#93#39#18446744073709551615#0#14"Semantic Issue--2@13"Declared here-364328619#1418#118#3(3@116"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h:9:-364328619#18446744073709551615#0#-0#-4@109"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiUIWebViewProxy.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@93"In file included from /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m:12:-364328619#18446744073709551615#0#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#---2@103"Declared here in /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h-364328619#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h0000000000000000^112#0#112#0#18446744073709551615#0#---0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiViewProxy.h0000000000000000^112#0#112#0#18446744073709551615#0#14"Semantic Issue--2@46"'NSString' may not respond to 'objectAtIndex:'-364328619#1568#134#2(2@100"Instantiated from: /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBase.h-364328619#1818#114#-0#-4@99"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiBase.h0000000000000000^62#13#62#13#18446744073709551615#0#30"Apple LLVM compiler 3.0 Notice--2@86"Instantiated from: /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m-364328619#1977#100#-0#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^97#66#97#66#18446744073709551615#0#30"Apple LLVM compiler 3.0 Notice--1#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^97#1#97#1#18446744073709551615#0#14"Semantic Issue--2@46"'NSString' may not respond to 'objectAtIndex:'-364328619#2258#136#-1#-4@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^101#42#101#42#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@83"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m0000000000000000^2878"CompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o Classes/ComKossoCookiejarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kosso/ti_modules/cookiejar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/opt/android-ndk:/opt/android-sdk:/opt/android-sdk/tools:/opt/android-sdk/platform-tools"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-generated-files.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-own-target-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-all-target-headers.hmap -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-project-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore" -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources/armv7 -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources -F/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos -include /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch -MMD -MT dependencies -MF /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.d -c /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModule.m -o /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModule.o36"3444E3E3-4E95-4C10-949D-971A04E83B05-
+
+CCompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364326778.496529
+e364326778.556507
+r1
+xCompileC
+xbuild/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o
+x/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.mbb467f7a2fb7b541^a7768e7a2fb7b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m0000000000000000^2908"CompileC build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o Classes/ComKossoCookiejarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kosso/ti_modules/cookiejar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/opt/android-ndk:/opt/android-sdk:/opt/android-sdk/tools:/opt/android-sdk/platform-tools"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-generated-files.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-own-target-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-all-target-headers.hmap -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-project-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore" -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources/armv7 -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources -F/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos -include /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch -MMD -MT dependencies -MF /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.d -c /Users/kosso/ti_modules/cookiejar/Classes/ComKossoCookiejarModuleAssets.m -o /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejarModuleAssets.o36"EF9EC49B-F124-4C8B-A1D1-823BCBB7D85C-
+
+CLibtool /Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/libComKossoCookiejar.a normal armv7
+s364328619.142371
+e364328619.151581
+r1
+xLibtool
+x/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/libComKossoCookiejar.a
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphoneos/libComKossoCookiejar.a normal armv7969324ab36b7b541^3ae826ab36b7b541^---0#0#0#--947"Libtool build/Release-iphoneos/libComKossoCookiejar.a normal armv7    cd /Users/kosso/ti_modules/cookiejar    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/opt/android-ndk:/opt/android-sdk:/opt/android-sdk/tools:/opt/android-sdk/platform-tools"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos -filelist /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/Objects-normal/armv7/ComKossoCookiejar.LinkFileList -framework Foundation -o /Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/libComKossoCookiejar.a36"ACBDF359-A735-4774-8651-0EC433E76DBE-
+
+CProcessPCH /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth ComKossoCookiejar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364326778.156058
+e364326778.494672
+r1
+xProcessPCH
+x/var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth
+xComKossoCookiejar_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile ComKossoCookiejar_Prefix.pche620287a2fb7b541^27a37e7a2fb7b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/kosso/ti_modules/cookiejar/ComKossoCookiejar_Prefix.pch0000000000000000^2866"ProcessPCH /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth ComKossoCookiejar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kosso/ti_modules/cookiejar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/opt/android-ndk:/opt/android-sdk:/opt/android-sdk/tools:/opt/android-sdk/platform-tools"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-generated-files.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-own-target-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-all-target-headers.hmap -iquote /Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/ComKossoCookiejar-project-headers.hmap -I/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/iphone/include/TiCore" -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources/armv7 -I/Users/kosso/ti_modules/cookiejar/build/cookiejar.build/Release-iphoneos/cookiejar.build/DerivedSources -F/Users/kosso/ti_modules/cookiejar/build/Release-iphoneos -c /Users/kosso/ti_modules/cookiejar/ComKossoCookiejar_Prefix.pch -o /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/HJ/HJqe8P+0GNC-lEqdi0afZE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/ComKossoCookiejar_Prefix-bayfglbdrqgfrggkmbyjivmyidcg/ComKossoCookiejar_Prefix.pch.d36"F078B8D3-921C-49EF-925E-6B1214E1AECD-
+
