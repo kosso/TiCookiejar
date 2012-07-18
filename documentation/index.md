@@ -15,15 +15,15 @@ The cookiejar variable is a reference to the Module object.
 
 ## Reference
 
-var cookiejar = require('com.kosso.cookiejar');
-Ti.API.info("module is => " + cookiejar);
+	var cookiejar = require('com.kosso.cookiejar');
+	Ti.API.info("module is => " + cookiejar);
 
 
 // This will log a user out of their Google account in a webview, if no logout option is available (often the case).
 
-cookiejar.clearWebViewCookies('.google.com');
-cookiejar.clearWebViewCookies('.google.co.uk');
-cookiejar.clearWebViewCookies('accounts.google.com');		
+	cookiejar.clearWebViewCookies('.google.com');
+	cookiejar.clearWebViewCookies('.google.co.uk');
+	cookiejar.clearWebViewCookies('accounts.google.com');		
 
 ## Author
 
