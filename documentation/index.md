@@ -1,4 +1,4 @@
-# cookiejar Module
+# cookiejar Titanium Module
 
 ## Description
 
