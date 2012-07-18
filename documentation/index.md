@@ -2,7 +2,8 @@
 
 ## Description
 
-TODO: Enter your module description here
+Enables the abilty to clear cookies for specified domains from webviews. 
+This is often required for webView based third party sites like Twitter/G+ etc. to totally  log out of their various intent windows and accounts etc. 
 
 ## Accessing the cookiejar Module
 
