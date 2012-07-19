@@ -97,7 +97,7 @@
 #pragma Public APIs
 
 
-- (void)clearWebViewCookies:(NSString*)cleardomain
+- (void)clearWebViewCookies:(NSMutableArray*)cleardomain
 {
 	NSLog(@"[INFO] called webView clearWebViewCache to clear : %@", [cleardomain objectAtIndex:0]);
 
